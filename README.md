@@ -7,3 +7,7 @@ Includes:
 
 ## How to Run 🛠️
 1. Clone the repo
+2. Open in **Visual Studio**  
+3. Press `Ctrl + Shift + N` to run  
+
+Feel free to contribute! 🤝
