@@ -1,3 +1,4 @@
+//the game is without any graphical interface.
 #include <iostream>
 #include <conio.h>   // For _kbhit() and _getch()
 #include <windows.h> // For Sleep()
